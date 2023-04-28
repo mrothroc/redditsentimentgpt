@@ -15,7 +15,7 @@ Sample json files are included to show the output against 'r/siri'.
 ## Installation
 
 1. Clone the repository
-2. Install the requirements
+2. Install the requirements with `pip install -r requirements.txt`
 3. Add your reddit and OpenAI API keys to `main.py`
 4. Run the script with `python main.py <subreddit_name>`
 
